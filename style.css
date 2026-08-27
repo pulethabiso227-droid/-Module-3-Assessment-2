@@ -46,17 +46,17 @@ body{
 #grid3-1{
     position: absolute;
     left: 0px;
-    bottom: 5px;
+    bottom: 0px;
 }
 
 #grid3-2{
     position: absolute;
     left: 200px;
-    bottom: 5px;
+    bottom: 0px;
 }
 
 #grid3-3{
     position: absolute;
     left: 400px;
-    bottom: 5px;
+    bottom: 0px;
 }
